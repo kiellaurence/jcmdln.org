@@ -1,1 +1,1 @@
-# www.jcmdln.org
+# jcmdln.org
